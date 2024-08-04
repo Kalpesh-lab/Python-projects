@@ -10,7 +10,7 @@ basket= []
 
 print("Welcome to XYZ Restraunt")
 print( 
-    '''       1) Order Food
+    '''       1) Menu
        2)View amount
        3)View Basket
        4)Exit'''
